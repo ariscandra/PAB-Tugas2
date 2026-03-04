@@ -145,8 +145,6 @@ Fokus aplikasi:
 <summary><b>Lihat struktur folder</b></summary>
 
 ```text
-assets/
-└──                                      # (Isi jika nanti menambah aset)
 documentation/                               # Screenshot untuk dokumentasi README
 │   ├── FORM - REGISTRASI.png                # Form registrasi utama
 │   ├── FORM - ERROR_VALIDASI.png            # Contoh error validasi form
